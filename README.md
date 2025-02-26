@@ -20,3 +20,10 @@
 
 
 
+# Create Table:-
+
+<img src="./img/create-table.png">
+
+# Insert Data:-
+
+<img src="./img/Enterd-data.png">
